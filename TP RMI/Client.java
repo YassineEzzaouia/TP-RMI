@@ -1,3 +1,4 @@
+package TP RMI;
 import java.rmi.*;
 
 public class Client {
